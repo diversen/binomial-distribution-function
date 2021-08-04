@@ -1,0 +1,25 @@
+{
+  "name": "binomial-distribution-function",
+  "version": "1.0.0",
+  "description": "This is the binomial distribution function and the cumulative version of the binomial distribution function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Dennis Iversen",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/binomial-distribution-function.git"
+  },
+  "keywords": [
+    "binomial-distribution-function",
+    "binomial-distribution-function-cumulative"
+  ],
+  "bugs": {
+    "url": "https://github.com/diversen/binomial-distribution-function/issues"
+  },
+  "homepage": "https://github.com/diversen/binomial-distribution-function#readme"
+}

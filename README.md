@@ -4,11 +4,11 @@ This is the binomial distribution function and the cumulative version of the bin
 
 ## Install: 
 
-    npm install --save math-standard-deviation
+    npm install --save binomial-distribution-function
 
 Usage: see [test.js](test.js)
 
 
 ## License
 
-MIT © [Dennis Iversen](https://github.com/diversen)# binomial-distribution-function
+MIT © [Dennis Iversen](https://github.com/diversen)
