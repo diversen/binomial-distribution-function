@@ -11,3 +11,5 @@ console.log(binomialDistributionFunction(10, 8, 0.3))
 // 10 choose 0, 10 choose 1 ... 10 choose 8
 console.log(binomialDistributionFunctionCumulative(10, 8, 0.3))
 // -> 0.9998563140999993
+
+binomialDistributionFunction()

@@ -12,9 +12,9 @@ const n_choose_k = function (n, k) {
 
 /**
  * 
- * @param {*} n number of trials 
- * @param {*} k numbers of successes
- * @param {*} p percentage chance of success
+ * @param {Number} n number of trials 
+ * @param {Number} k successes
+ * @param {Number} p percentage chance of success
  * @returns Number
  */
 const binomialDistributionFunction = function (n, k, p) {
@@ -23,9 +23,9 @@ const binomialDistributionFunction = function (n, k, p) {
 
 /**
  * 
- * @param {*} n number of trials 
- * @param {*} k up to numbers of successes
- * @param {*} p percentage chance of success
+ * @param {Number} n number of trials 
+ * @param {Number} k cumulative successes 
+ * @param {Number} p percentage chance of success
  * @returns Number
  */
 const binomialDistributionFunctionCumulative = function (n, k, p) {
